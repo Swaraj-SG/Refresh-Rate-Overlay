@@ -9,7 +9,7 @@ If you are using The EXE file, then there is only one way to close the overlay.
 ![image](https://github.com/user-attachments/assets/c0fb8c8a-16ad-4025-a4ba-4b5ab3c2238c)
 Go in Task Manager, and search for "Refresh Rate Overlay.exe" in the backgroung processes, and then click on End Task.
 
-If you don't know what to do, just simply restating the PC can do the same.
+If you don't know what to do, just simply restart your PC, it does the same.
 
 If you are using the Plain Python file, some Python libraries need to be installed to run the Python file. 
 
